@@ -1,0 +1,1 @@
+In this repository you can find submodules to the stm_audio_board_v3 pcb designs
