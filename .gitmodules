@@ -1,0 +1,3 @@
+[submodule "stm_audio_board_v3_dsp_board"]
+	path = stm_audio_board_v3_dsp_board
+	url = https://github.com/Papproni/stm_audio_board_v3_dsp_board.git
