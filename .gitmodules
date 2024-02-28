@@ -1,3 +1,12 @@
 [submodule "stm_audio_board_v3_dsp_board"]
 	path = stm_audio_board_v3_dsp_board
 	url = https://github.com/Papproni/stm_audio_board_v3_dsp_board.git
+[submodule "stm_audio_board_v3_footswitch_board"]
+	path = stm_audio_board_v3_footswitch_board
+	url = https://github.com/Papproni/stm_audio_board_v3_footswitch_board.git
+[submodule "stm_audio_board_v3_display_board"]
+	path = stm_audio_board_v3_display_board
+	url = https://github.com/Papproni/stm_audio_board_v3_display_board.git
+[submodule "stm_audio_board_v3_jack_board"]
+	path = stm_audio_board_v3_jack_board
+	url = https://github.com/Papproni/stm_audio_board_v3_jack_board.git
